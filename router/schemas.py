@@ -5,7 +5,6 @@ from typing import List
 class UserRequestSchema(BaseModel):
     username: str
     avatar: str
-    # email: str
 
 class UserResponseSchema(UserRequestSchema):
     id: int
