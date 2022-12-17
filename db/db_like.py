@@ -14,17 +14,3 @@ def db_feed(db: Session):
     db.commit()
     return db.query(DbLike).all()
 
-
-# def create(db: Session, request: LikeRequestSchema):
-#     new_like = DbLike(
-#         article_id=request.article_id,
-#         user_id=request.user_id
-#     )
-#     db.add(new_like)
-#     db.commit()
-#     db.refresh(new_like)
-#     return new_like
-#
-#
-# def get_all(db: Session):
-#     return db.query(DbLike).all()

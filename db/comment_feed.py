@@ -1,66 +1,66 @@
-comms = [
+comment = [
     {
-        "content": "hahahah",
+        "content": "say the name!",
         "article_id": 1,
         "user_id": 3
     },
     {
-        "content": "balabalabala,balabala.",
+        "content": "호랑해~~",
         "article_id": 2,
         "user_id": 5
     },
     {
-        "content": "balabalabala,balabala.",
+        "content": "carat ♥ ♥",
         "article_id": 2,
         "user_id": 1
     },
     {
-        "content": "balabalabala,balabala.",
+        "content": "seventeen ♥",
         "article_id": 3,
         "user_id": 2
     },
     {
-        "content": "balabalabala,balabala.",
+        "content": "하니해~~~~",
         "article_id": 3,
         "user_id": 4
     },
     {
-        "content": "balabalabala,balabala.",
+        "content": "쿱랑해~~~~",
         "article_id": 3,
         "user_id": 3
     },
     {
-        "content": "balabalabala,balabala.",
+        "content": "슈아해~~",
         "article_id": 4,
         "user_id": 1
     },
     {
-        "content": "balabalabala,balabala.",
+        "content": "준랑해~~~",
         "article_id": 4,
         "user_id": 4
     },
     {
-        "content": "balabalabala,balabala.",
+        "content": "원랑해~~~~",
         "article_id": 5,
         "user_id": 1
     },
     {
-        "content": "balabalabala,balabala.",
+        "content": "우아해 ς(>‿<.)",
         "article_id": 5,
         "user_id": 2
     },
     {
-        "content": "balabalabala,balabala.",
+        "content": "규랑해 ς( ᐡ-ﻌ•ᐡ )",
         "article_id": 5,
         "user_id": 3
     },
     {
-        "content": "balabalabala,balabala.",
+        "content": "팔랑해 ( ღ⸝⸝¯ ⁸ ¯⸝⸝ )",
         "article_id": 5,
         "user_id": 4
     },
     {
-        "content": "balabalabala,balabala.",
+        "content": "도아해 (｡•̀ᴗ-ღ)",
         "article_id": 5,
         "user_id": 5
     }

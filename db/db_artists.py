@@ -2,7 +2,7 @@ from fastapi import HTTPException, status
 from router.schemas import ArticleRequestSchema
 from sqlalchemy.orm.session import Session
 from db.models import DbArticle
-from .articles_feed import articles
+from .artists_feed import artists
 
 def db_feed(db: Session):
     new_article_list = [DbArticle(
@@ -11,7 +11,7 @@ def db_feed(db: Session):
         description=article["description"],
         description_long=article["description_long"],
         image=article["image"]
-    ) for article in articles]
+    ) for article in artists]
     db.query(DbArticle).delete()
     db.commit()
     db.add_all(new_article_list)
