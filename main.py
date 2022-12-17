@@ -24,6 +24,7 @@ if __name__ == '__main__':
 
 origins = [
     'http://127.0.0.1:5173',
+    'https://wk13front-production.up.railway.app/',
  
 ]
 
