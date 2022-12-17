@@ -7,7 +7,7 @@ def db_feed(db: Session):
     new_user_list = [DbUser(
         username=user["username"],
         avatar=user["avatar"],
-        email=user["email"]
+        # email=user["email"]
     ) for user in users]
     db.query(DbUser).delete()
     db.commit()
@@ -20,7 +20,7 @@ def create(db: Session, request: UserRequestSchema):
     new_user = DbUser(
         username=request.username,
         avatar=request.avatar,
-        email=request.email
+        # email=request.email
     )
     db.add(new_user)
     db.commit()
