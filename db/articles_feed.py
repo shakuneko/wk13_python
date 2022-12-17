@@ -9,7 +9,7 @@ articles = [
                             "崔勝哲在成員們作為練習生開始便加以照顧，凡事都以成員為優先考慮，是位出名以充滿威嚴氣場而受到後輩們注目，"
                             "充滿才華、責任感和領導能力的隊長。",
                 
-        "image": "https://imgur.com/4bmhc4R"
+        "image": "https://raw.githubusercontent.com/shakuneko/pic0412/main/pic1.JPG"
     },
     {
         "title": "Vocal Team",
@@ -21,7 +21,7 @@ articles = [
                             "在地鐵站受到星探邀約，而後參加面試合格入選，成為Pledis娛樂練習生。高中畢業後進入東亞"
                             "放送藝術大學廣告製作學系就讀，現已休學。2020年3月10日進入漢陽大學未來人才教育院， "
                             "就讀實用音樂課程(K-POP)。2022年2月15日進入安養大學，就讀經營學系碩博士統合課程。",
-        "image": "https://imgur.com/PBsyvbr"
+        "image": "https://raw.githubusercontent.com/shakuneko/pic0412/main/pic2.JPG"
     },
     {
         "title": "Performance Team",
@@ -35,7 +35,7 @@ articles = [
                             "練習生。高中就讀磨石高等學校並於2015年2月畢業，由於正逢出道忙碌期間而推遲大學入學，"
                             "後於2017年2月就讀東亞放送藝術大學校放送演藝學系。",
                             
-        "image": "https://imgur.com/l6vdf1v"
+        "image": "https://raw.githubusercontent.com/shakuneko/pic0412/main/pic5.jpg"
     },
   
 ]
